@@ -17,4 +17,5 @@ body {
 }
 .profile-info {
  float: right;
+ align: right;
 }
