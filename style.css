@@ -19,7 +19,7 @@ html, body {
 .left, .right {
   background-color: lightpink;
   
-  margin: 0px;
+  margin: 5px;
   max-width: 50%;
   flex: 1;
   display: flex;
