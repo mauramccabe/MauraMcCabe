@@ -6,11 +6,17 @@ html, body {
   margin: 0px;
   padding: 0px;
 }
-nav {
-  align-items: center;
-  justify-content: top;
+.navbar {
+  overflow: hidden;
+  background-color: lightpink;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
-
+.navbar a:hover {
+  background: white;
+  color: white;
+}
 .wrapper {
   background-color: lightpink;
   
