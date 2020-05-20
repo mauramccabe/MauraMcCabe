@@ -39,5 +39,10 @@ html, body {
 
 .left {
   align-items: center;
-  justify-content: center;
+
+  justify-content: top;
+}
+.right {
+  align-items: center;
+  justify-content: bottom;
 }
