@@ -18,4 +18,10 @@ body {
 .profile-info {
  float: right;
  align: center;
+ width: 60%;
+ heigh: 100vh;
+ padding: 0 30px;
+}
+.about {
+ margin-left: 15px;
 }
